@@ -30,7 +30,7 @@ function App() {
             onChange={(e) => setStateValue(e.target.value)}
           />
           <p>
-            Binary number: {stateValue} --------- Decimal number:
+            Binary number ******: {stateValue} ---- Decimal number ====*****:
             {buttonState}
           </p>
           <button
